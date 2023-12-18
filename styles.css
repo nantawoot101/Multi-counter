@@ -1,0 +1,37 @@
+body {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+  }
+  
+  .head_counter {
+    display: block;
+    margin: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+  }
+  
+  .counter {
+    display: block;
+    margin: 10px;
+    border: 3px dashed lawngreen;
+    padding: 10px;
+    margin-right: 5px;
+    
+  }
+  
+  .input-number {
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  button {
+    width: 100px;
+    height: 20px;
+  }
